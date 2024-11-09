@@ -1,0 +1,29 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+
+import java.util.Scanner;
+
+
+public class Lab1 {
+
+    /**
+     * @param args the command line arguments
+     */
+ 
+ public static void main(String[] args) {
+Scanner girdi=new Scanner(System.in);
+ double a;
+        System.out.println("sayiyi giriniz");
+        int sayı=girdi.nextInt();
+        if (sayı>0)
+        System.out.println("a pozitif");
+        else if(sayı<0)
+        System.out.println("a negatif");
+        else if(sayı==0)
+        System.out.println("a sıfırdır"); 
+                          
+        // TODO code application logic here
+    }
+}
