@@ -36,6 +36,10 @@
 
   ### 📊 GitHub Stats
 
+  ----
+
+  ⭐ "My goal will always be the stars. Even if I fail, I will be among the clouds." ⭐
+
   
 
 
