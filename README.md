@@ -2,6 +2,7 @@
 ### 💻 About Me
 
 - 🎓 Graduated with honors from Yunus Emre Anatolian High School
+-    I am studying at the Department of Computer Engineering at Karabük University.
 
 
 
